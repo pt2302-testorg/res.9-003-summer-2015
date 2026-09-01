@@ -1,0 +1,75 @@
+{
+  "term": "Summer",
+  "year": "2015",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ],
+    [
+      "Health and Medicine",
+      "Sensory-Neural Systems"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "legacy_uid": "15a7807e-5720-50e4-4a9c-dfd2f592007c",
+  "instructors": {
+    "content": [
+      "5f6bd7a0-06b9-c3c4-8759-e6aab3545d24",
+      "41653597-fda0-59fa-6896-8e92a7c6659e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d9b85b4b-dedd-72be-b1e5-cac01ea694d1",
+    "website": "res-9-003-brains-minds-and-machines-summer-course-summer-2015"
+  },
+  "course_title": "Brains, Minds and Machines Summer Course",
+  "hide_download": false,
+  "course_description": "This course explores the problem of intelligence\u2014its nature, how it is produced by the brain and how it could be replicated in machines\u2014using an approach that integrates cognitive science, which studies the mind; neuroscience, which studies the brain; and computer science and artificial intelligence, which study the computations needed to develop intelligent machines. Materials are drawn from the {{% resource_link \"450d58d6-39f7-4ace-a86a-23d99f7abd76\" \"Brains, Minds and Machines Summer Course\" %}} offered annually at the Marine Biological Laboratory in Woods Hole, MA, taught by faculty affiliated with the {{% resource_link \"a3b472c1-b2b2-48e7-ac79-5166d50623f1\" \"Center for Brains, Minds and Machines\" %}} headquartered at MIT. Elements of the summer course are integrated into the MIT course, _9.523 Aspects of a Computational Theory of Intelligence._\n\nContributors\n------------\n\nThis course includes the contributions of many instructors, guest speakers, and a team of iCub researchers. See the [complete list of contributors](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/pages/syllabus/course-instructors-guest-speakers-and-icub-team).\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.9-003",
+  "course_image_thumbnail": {
+    "content": "02c7850b-19db-e02d-bd2f-d19454c023ad",
+    "website": "res-9-003-brains-minds-and-machines-summer-course-summer-2015"
+  },
+  "learning_resource_types": [
+    "Other Video",
+    "Lecture Videos",
+    "Lecture Notes",
+    "Projects",
+    "Instructor Insights"
+  ],
+  "site_uid": "ee8e732d-0500-4ad4-839b-e978cc5174ba",
+  "site_short_id": "res.9-003-summer-2015",
+  "site_url_path": "courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015",
+  "title": "Course Metadata"
+}
