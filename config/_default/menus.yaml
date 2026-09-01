@@ -1,0 +1,111 @@
+leftnav:
+- identifier: d5687d1c-8069-f9c0-0d9e-816575ca680a
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: cd8182dc-2721-46f0-915a-6f72ae89f59c
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 3c41f493-e709-0029-8198-eb92c4d7a30d
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 49281236-ae8b-1802-f634-42f7bcf66a2c
+  name: Introduction
+  pageRef: /video_galleries/introduction
+  weight: 40
+- identifier: e1619dcf-4933-8ee6-8458-d20fd651289a
+  name: Unit 1. Neural Circuits of Intelligence
+  pageRef: /video_galleries/unit-1--neural-circuits-of-intelligence
+  weight: 50
+- identifier: 855d4e86-2ca9-e529-74f0-cdef3de9e9c0
+  name: Unit 2. Modeling Human Cognition
+  pageRef: /video_galleries/unit-2--modeling-human-cognition
+  weight: 60
+- identifier: 94e8157f-d23e-186e-1a9d-9a3ad7db02e4
+  name: Unit 3. Development of Intelligence
+  pageRef: /video_galleries/unit-3--development-of-intelligence
+  weight: 70
+- identifier: 289e2ca7-7ee3-0e59-cb99-42b74cd2ddf9
+  name: Unit 4. Visual Intelligence
+  pageRef: /video_galleries/unit-4--visual-intelligence
+  weight: 80
+- identifier: 8d2bd38c-682c-4509-eb22-aad86d4047ab
+  name: Unit 5. Vision and Language
+  pageRef: /video_galleries/unit-5--vision-and-language
+  weight: 90
+- identifier: 4bd64119-b362-cdc8-35b3-9ea8424f1390
+  name: Unit 6. Social Intelligence
+  pageRef: /video_galleries/unit-6--social-intelligence
+  weight: 100
+- identifier: 67de5f18-8df4-42c1-f171-08d83925c7a8
+  name: Unit 7. Audition and Speech
+  pageRef: /video_galleries/unit-7--audition-and-speech
+  weight: 110
+- identifier: d0c148a6-bf68-05c7-c4be-4fbf44356bb5
+  name: Unit 8. Robotics
+  pageRef: /video_galleries/unit-8--robotics
+  weight: 120
+- identifier: a9e7f99a-ce34-3b66-1440-d2ef1d026bdf
+  name: Unit 9. Theory of Intelligence
+  pageRef: /video_galleries/unit-9--theory-of-intelligence
+  weight: 130
+- identifier: 1991b27f-a447-8dc0-a6a2-79748088784f
+  name: Tutorials
+  pageRef: /pages/tutorials/
+  weight: 140
+- identifier: 5a9d01c0-741d-24bb-27ad-5970bde6ab28
+  name: Projects
+  pageRef: /video_galleries/projects
+  weight: 150
+- identifier: 653d64c8-ddb9-eccf-38be-70b1c01c8ea3
+  name: Course Instructors, Guest Speakers, and iCub Team
+  pageRef: /pages/syllabus/course-instructors-guest-speakers-and-icub-team
+  parent: d5687d1c-8069-f9c0-0d9e-816575ca680a
+  weight: 10
+- identifier: 8aaec61e-e6fe-9066-e116-b7dbb69aa309
+  name: Fostering the Development of Interdisciplinary Thinking
+  pageRef: /pages/instructor-insights/fostering-the-development-of-interdisciplinary-thinking
+  parent: 3c41f493-e709-0029-8198-eb92c4d7a30d
+  weight: 10
+- identifier: c377690a-06a5-9c86-78a3-5e5ec8379fbb
+  name: Maintaining Intellectual Coherence across a Wide Range of Topics
+  pageRef: /pages/instructor-insights/maintaining-intellectual-coherence-across-a-wide-range-of-topics
+  parent: 3c41f493-e709-0029-8198-eb92c4d7a30d
+  weight: 20
+- identifier: b19bee0a-8658-e1cd-59a8-2f3f0d7d83c4
+  name: Designing Full-semester Courses with More Focused Content
+  pageRef: /pages/instructor-insights/designing-full-semester-courses-with-more-focused-content
+  parent: 3c41f493-e709-0029-8198-eb92c4d7a30d
+  weight: 30
+- identifier: 3f513339-673d-7da1-ed3b-5faa17d7ad46
+  name: Tutorial 1. Basic Neuroscience
+  pageRef: /pages/tutorials/tutorial-1--basic-neuroscience
+  parent: 1991b27f-a447-8dc0-a6a2-79748088784f
+  weight: 10
+- identifier: 8cd0ca9a-ec53-9f73-3f4c-198c13784445
+  name: 'Tutorial 2: MATLAB Programming'
+  pageRef: /pages/tutorials/tutorial-2-matlab-programming
+  parent: 1991b27f-a447-8dc0-a6a2-79748088784f
+  weight: 20
+- identifier: 8f197fff-9848-87e6-768b-3b708afa1b7d
+  name: Tutorial 3. Machine Learning
+  pageRef: /pages/tutorials/tutorial-3--machine-learning
+  parent: 1991b27f-a447-8dc0-a6a2-79748088784f
+  weight: 30
+- identifier: 6ddfcb58-85ac-c7b6-42ae-b8f2b44f6561
+  name: Tutorial 4. Neural Decoding
+  pageRef: /pages/tutorials/tutorial-4--neural-decoding
+  parent: 1991b27f-a447-8dc0-a6a2-79748088784f
+  weight: 40
+- identifier: 32907aca-b7d5-1972-49b3-b36fb769ce08
+  name: 'Tutorial 5: Church Programming'
+  pageRef: /pages/tutorials/tutorial-5-church-programming
+  parent: 1991b27f-a447-8dc0-a6a2-79748088784f
+  weight: 50
+- identifier: 7e2b7b55-eaa4-6494-579e-611d46d28b3a
+  name: Tutorial 6. Amazon Mechanical Turk
+  pageRef: /pages/tutorials/tutorial-6--amazon-mechanical-turk
+  parent: 1991b27f-a447-8dc0-a6a2-79748088784f
+  weight: 60
